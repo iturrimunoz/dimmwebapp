@@ -22,6 +22,25 @@ const Gallery = () => {
       thumbnail: "https://img.youtube.com/vi/VIDEO_ID_3/maxresdefault.jpg",
       videoId: "VIDEO_ID_3"
     },
+    {
+      id: 4,
+      title: "Video 4",
+      thumbnail: "https://img.youtube.com/vi/VIDEO_ID_4/maxresdefault.jpg",
+      videoId: "VIDEO_ID_4"
+    },
+    {
+      id: 5,
+      title: "Video 5",
+      thumbnail: "https://img.youtube.com/vi/VIDEO_ID_5/maxresdefault.jpg",
+      videoId: "VIDEO_ID_5"
+    },
+    {
+      id: 6,
+      title: "Video 6",
+      thumbnail: "https://img.youtube.com/vi/VIDEO_ID_6/maxresdefault.jpg",
+      videoId: "VIDEO_ID_6"
+    },
+
     // Agrega más videos según necesites
   ];
 

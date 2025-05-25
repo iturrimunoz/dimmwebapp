@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="relative bg-primary text-white py-20">
+    <section className="relative bg-primary text-white pt-40 pb-20">
       <div className="max-w-4xl mx-auto px-4 text-center">
         <h1 className="text-4xl md:text-5xl font-extrabold mb-6">
           Theranostics Center
