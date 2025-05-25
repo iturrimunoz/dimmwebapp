@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dimmwebapp/static/css/main.a27ad35a.css",
-    "main.js": "/dimmwebapp/static/js/main.826f0e08.js",
+    "main.css": "/dimmwebapp/static/css/main.b84a1627.css",
+    "main.js": "/dimmwebapp/static/js/main.1198926b.js",
     "static/js/453.5efd8bf7.chunk.js": "/dimmwebapp/static/js/453.5efd8bf7.chunk.js",
     "index.html": "/dimmwebapp/index.html",
-    "main.a27ad35a.css.map": "/dimmwebapp/static/css/main.a27ad35a.css.map",
-    "main.826f0e08.js.map": "/dimmwebapp/static/js/main.826f0e08.js.map",
+    "main.b84a1627.css.map": "/dimmwebapp/static/css/main.b84a1627.css.map",
+    "main.1198926b.js.map": "/dimmwebapp/static/js/main.1198926b.js.map",
     "453.5efd8bf7.chunk.js.map": "/dimmwebapp/static/js/453.5efd8bf7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a27ad35a.css",
-    "static/js/main.826f0e08.js"
+    "static/css/main.b84a1627.css",
+    "static/js/main.1198926b.js"
   ]
 }
