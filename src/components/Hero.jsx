@@ -9,6 +9,9 @@ const Hero = () => {
         </h1>
         <p className="text-xl md:text-2xl mb-8">
           Tratamientos de Medicina Nuclear y PET Scans de Clase Mundial – Lucha contra el cáncer con precisión
+          Tratamientos de Medicina Nuclear y PET Scans de Clase Mundial – Lucha contra el cáncer con precisión
+          Tratamientos de Medicina Nuclear y PET Scans de Clase Mundial – Lucha contra el cáncer con precisión
+       
         </p>
         <a
           href="#contact"
