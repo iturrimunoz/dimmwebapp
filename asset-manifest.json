@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dimmwebapp/static/css/main.ad49539c.css",
-    "main.js": "/dimmwebapp/static/js/main.f0ed814c.js",
-    "static/js/453.5efd8bf7.chunk.js": "/dimmwebapp/static/js/453.5efd8bf7.chunk.js",
+    "main.css": "/dimmwebapp/static/css/main.03c09478.css",
+    "main.js": "/dimmwebapp/static/js/main.d5cf997a.js",
+    "static/js/453.48a5fdcc.chunk.js": "/dimmwebapp/static/js/453.48a5fdcc.chunk.js",
     "index.html": "/dimmwebapp/index.html",
-    "main.ad49539c.css.map": "/dimmwebapp/static/css/main.ad49539c.css.map",
-    "main.f0ed814c.js.map": "/dimmwebapp/static/js/main.f0ed814c.js.map",
-    "453.5efd8bf7.chunk.js.map": "/dimmwebapp/static/js/453.5efd8bf7.chunk.js.map"
+    "main.03c09478.css.map": "/dimmwebapp/static/css/main.03c09478.css.map",
+    "main.d5cf997a.js.map": "/dimmwebapp/static/js/main.d5cf997a.js.map",
+    "453.48a5fdcc.chunk.js.map": "/dimmwebapp/static/js/453.48a5fdcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad49539c.css",
-    "static/js/main.f0ed814c.js"
+    "static/css/main.03c09478.css",
+    "static/js/main.d5cf997a.js"
   ]
 }
