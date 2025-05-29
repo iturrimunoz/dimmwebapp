@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/dimmwebapp/static/css/main.97f77115.css",
-    "main.js": "/dimmwebapp/static/js/main.6e8369a5.js",
+    "main.css": "/dimmwebapp/static/css/main.66051e28.css",
+    "main.js": "/dimmwebapp/static/js/main.e3c777ce.js",
     "static/js/453.f6c654be.chunk.js": "/dimmwebapp/static/js/453.f6c654be.chunk.js",
     "static/media/tecnico-almendras.jpg": "/dimmwebapp/static/media/tecnico-almendras.004804aafa2262990f47.jpg",
     "static/media/doctor-bowles.jpg": "/dimmwebapp/static/media/doctor-bowles.abc8bf4cea61b6db2632.jpg",
+    "static/media/83_n.jpg": "/dimmwebapp/static/media/83_n.392b3a07e3a302dee91c.jpg",
+    "static/media/53_n.jpg": "/dimmwebapp/static/media/53_n.d81dcdcdaa0a37359180.jpg",
+    "static/media/27_n.jpg": "/dimmwebapp/static/media/27_n.0a950e0ad5652924d33a.jpg",
+    "static/media/23_n.jpg": "/dimmwebapp/static/media/23_n.c24c1e4b1d857a402323.jpg",
+    "static/media/12_n.jpg": "/dimmwebapp/static/media/12_n.3ecdef7c981b1bcbfa74.jpg",
+    "static/media/82_n.jpg": "/dimmwebapp/static/media/82_n.2ad94742dd3fa24174a0.jpg",
     "index.html": "/dimmwebapp/index.html",
-    "main.97f77115.css.map": "/dimmwebapp/static/css/main.97f77115.css.map",
-    "main.6e8369a5.js.map": "/dimmwebapp/static/js/main.6e8369a5.js.map",
+    "main.66051e28.css.map": "/dimmwebapp/static/css/main.66051e28.css.map",
+    "main.e3c777ce.js.map": "/dimmwebapp/static/js/main.e3c777ce.js.map",
     "453.f6c654be.chunk.js.map": "/dimmwebapp/static/js/453.f6c654be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97f77115.css",
-    "static/js/main.6e8369a5.js"
+    "static/css/main.66051e28.css",
+    "static/js/main.e3c777ce.js"
   ]
 }
