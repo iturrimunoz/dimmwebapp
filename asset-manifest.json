@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dimmwebapp/static/css/main.a9f22320.css",
-    "main.js": "/dimmwebapp/static/js/main.2949d39a.js",
+    "main.css": "/dimmwebapp/static/css/main.97f77115.css",
+    "main.js": "/dimmwebapp/static/js/main.6e8369a5.js",
     "static/js/453.f6c654be.chunk.js": "/dimmwebapp/static/js/453.f6c654be.chunk.js",
     "static/media/tecnico-almendras.jpg": "/dimmwebapp/static/media/tecnico-almendras.004804aafa2262990f47.jpg",
     "static/media/doctor-bowles.jpg": "/dimmwebapp/static/media/doctor-bowles.abc8bf4cea61b6db2632.jpg",
     "index.html": "/dimmwebapp/index.html",
-    "main.a9f22320.css.map": "/dimmwebapp/static/css/main.a9f22320.css.map",
-    "main.2949d39a.js.map": "/dimmwebapp/static/js/main.2949d39a.js.map",
+    "main.97f77115.css.map": "/dimmwebapp/static/css/main.97f77115.css.map",
+    "main.6e8369a5.js.map": "/dimmwebapp/static/js/main.6e8369a5.js.map",
     "453.f6c654be.chunk.js.map": "/dimmwebapp/static/js/453.f6c654be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9f22320.css",
-    "static/js/main.2949d39a.js"
+    "static/css/main.97f77115.css",
+    "static/js/main.6e8369a5.js"
   ]
 }
