@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dimmwebapp/static/css/main.a0dadb12.css",
-    "main.js": "/dimmwebapp/static/js/main.d72d582d.js",
+    "main.css": "/dimmwebapp/static/css/main.7479efca.css",
+    "main.js": "/dimmwebapp/static/js/main.190cf1ff.js",
     "static/js/453.f6c654be.chunk.js": "/dimmwebapp/static/js/453.f6c654be.chunk.js",
     "static/media/Logo2.png": "/dimmwebapp/static/media/Logo2.01e9c80586d443248c55.png",
     "static/media/Logo1.png": "/dimmwebapp/static/media/Logo1.9dccc793cac52ebbbbfe.png",
@@ -14,12 +14,12 @@
     "static/media/12_n.jpg": "/dimmwebapp/static/media/12_n.3ecdef7c981b1bcbfa74.jpg",
     "static/media/82_n.jpg": "/dimmwebapp/static/media/82_n.2ad94742dd3fa24174a0.jpg",
     "index.html": "/dimmwebapp/index.html",
-    "main.a0dadb12.css.map": "/dimmwebapp/static/css/main.a0dadb12.css.map",
-    "main.d72d582d.js.map": "/dimmwebapp/static/js/main.d72d582d.js.map",
+    "main.7479efca.css.map": "/dimmwebapp/static/css/main.7479efca.css.map",
+    "main.190cf1ff.js.map": "/dimmwebapp/static/js/main.190cf1ff.js.map",
     "453.f6c654be.chunk.js.map": "/dimmwebapp/static/js/453.f6c654be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0dadb12.css",
-    "static/js/main.d72d582d.js"
+    "static/css/main.7479efca.css",
+    "static/js/main.190cf1ff.js"
   ]
 }
